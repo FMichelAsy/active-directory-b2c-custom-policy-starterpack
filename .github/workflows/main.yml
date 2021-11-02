@@ -18,3 +18,4 @@ jobs:
         tenant: miche22test.onmicrosoft.com
         clientId: 8a86e65d-38ef-403c-ad30-324e14933454
         clientSecret: ${{ secrets.clientSecret }}
+ 
