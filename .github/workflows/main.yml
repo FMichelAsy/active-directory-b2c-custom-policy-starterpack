@@ -1,7 +1,7 @@
 on: push
 
 env:
-  clientId: 4b0122f7-4d40-492d-9cbc-cf58ade7ddf2
+  clientId: 8a86e65d-38ef-403c-ad30-324e14933454
   tenant: miche22test.onmicrosoft.com
 
 jobs:
