@@ -15,6 +15,6 @@ jobs:
       with:
         folder: "./SocialAndLocalAccounts"
         files: "TrustFrameworkBase.xml,TrustFrameworkLocalization.xml,TrustFrameworkExtensions.xml,SignUpOrSignin.xml"
-        tenant: 9be48368-a3a2-40e7-9d05-374aea64bbbd
+        tenant: miche22test.onmicrosoft.com
         clientId: 8a86e65d-38ef-403c-ad30-324e14933454
         clientSecret: ${{ secrets.clientSecret }}
